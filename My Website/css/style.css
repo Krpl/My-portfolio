@@ -76,6 +76,7 @@ nav ul li a:hover{
 .hero-img{
     flex-basis: 50%;
     background-color: transparent;
+    border-radius: 50%;
 }
 
 .hero-img img{
@@ -328,4 +329,5 @@ nav ul li a:hover{
 .contactinfo:hover p{
     transform: scale(1.1);
     color: #ff004f;
+
 }
